@@ -1,0 +1,504 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/app_background"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    tools:context="com.ziaetaiba.ziaehajjandumrah.MainActivity" >
+
+
+    <LinearLayout
+        android:id="@+id/LinearLayoutMain"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" >
+
+        <RelativeLayout
+            android:id="@+id/RelativeLayoutLogo"
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_weight="15"
+            android:orientation="vertical" >
+
+            <ImageView
+                android:id="@+id/logo"
+                android:layout_width="wrap_content"
+                android:layout_height="fill_parent"
+                android:layout_centerHorizontal="true"
+                android:layout_centerVertical="true"
+                android:layout_margin="10dp"
+                android:src="@drawable/logo"
+                android:layout_marginBottom="15dp" />
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:id="@+id/RelativeLayoutOptions"
+            android:layout_width="match_parent"
+            android:layout_height="0dip"
+            android:layout_marginTop="10dp"
+            android:layout_weight="70"
+            android:orientation="vertical" >
+
+
+            <ScrollView
+                android:id="@+id/scrollViewTopicGrade"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" >
+
+                <LinearLayout
+                    android:id="@+id/LinearLayoutOptions"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical" >
+
+                    <LinearLayout
+                        android:id="@+id/LinearLayout1"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_weight="17.06"
+                        android:baselineAligned="false"
+                        android:orientation="horizontal" >
+
+                        <RelativeLayout
+                            android:id="@+id/RelativeLayout12"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight=".50"
+                            android:orientation="horizontal" >
+
+                            <ImageView
+                                android:id="@+id/optionRahnumai_t"
+                                android:layout_width="100dp"
+                                android:layout_height="30dp"
+                                android:layout_below="@+id/optionRahnumai"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/rahnumai_t" />
+
+                            <ImageView
+                                android:id="@+id/optionRahnumai"
+                                android:layout_width="100dp"
+                                android:layout_height="100dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/rahnumai" />
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:id="@+id/RelativeLayout11"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight=".50"
+                            android:orientation="horizontal">
+
+                            <ImageView
+                                android:id="@+id/optionSubSePhele_t"
+                                android:layout_width="100dp"
+                                android:layout_height="30dp"
+                                android:layout_below="@+id/optionSubSePhele"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/sub_se_phele_t" />
+
+                            <ImageView
+                                android:id="@+id/optionSubSePhele"
+                                android:layout_width="100dp"
+                                android:layout_height="100dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/sub_se_phele" />
+                        </RelativeLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/LinearLayout2"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_weight="17.06"
+                        android:baselineAligned="false"
+                        android:orientation="horizontal" >
+
+                        <RelativeLayout
+                            android:id="@+id/RelativeLayout21"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight=".50"
+                            android:orientation="horizontal" >
+
+                            <ImageView
+                                android:id="@+id/optionAhram_t"
+                                android:layout_width="100dp"
+                                android:layout_height="30dp"
+                                android:layout_below="@+id/optionAhram"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/zia_e_ahram_t" />
+
+                            <ImageView
+                                android:id="@+id/optionAhram"
+                                android:layout_width="100dp"
+                                android:layout_height="100dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/zia_e_ahram" />
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:id="@+id/RelativeLayout22"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight=".50"
+                            android:orientation="horizontal" >
+
+                            <ImageView
+                                android:id="@+id/optionFazailHajjOUmrah_t"
+                                android:layout_width="100dp"
+                                android:layout_height="30dp"
+                                android:layout_below="@+id/optionFazailHajjOUmrah"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/fazail_e_hajj_o_umrah_t" />
+
+                            <ImageView
+                                android:id="@+id/optionFazailHajjOUmrah"
+                                android:layout_width="100dp"
+                                android:layout_height="100dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/fazail_e_hajj_o_umrah" />
+                        </RelativeLayout>
+
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/LinearLayout3"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_weight="17.06"
+                        android:baselineAligned="false"
+                        android:orientation="horizontal" >
+
+                        <RelativeLayout
+                            android:id="@+id/RelativeLayout31"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight=".50"
+                            android:orientation="horizontal" >
+
+                            <ImageView
+                                android:id="@+id/optionHajj_t"
+                                android:layout_width="100dp"
+                                android:layout_height="30dp"
+                                android:layout_below="@+id/optionHajj"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/zia_e_hajj_t" />
+
+                            <ImageView
+                                android:id="@+id/optionHajj"
+                                android:layout_width="100dp"
+                                android:layout_height="100dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/zia_e_hajj" />
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:id="@+id/RelativeLayout32"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight=".50"
+                            android:orientation="horizontal" >
+
+                            <ImageView
+                                android:id="@+id/optionUmrah_t"
+                                android:layout_width="100dp"
+                                android:layout_height="30dp"
+                                android:layout_below="@+id/optionUmrah"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/zia_e_umrah_t" />
+
+                            <ImageView
+                                android:id="@+id/optionUmrah"
+                                android:layout_width="100dp"
+                                android:layout_height="100dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/zia_e_umrah" />
+                        </RelativeLayout>
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/LinearLayout4"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_weight="17.06"
+                        android:baselineAligned="false"
+                        android:orientation="horizontal" >
+
+
+                        <RelativeLayout
+                            android:id="@+id/RelativeLayout41"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight=".50"
+                            android:orientation="horizontal" >
+
+                            <ImageView
+                                android:id="@+id/optionMuqaddasMaqamat_t"
+                                android:layout_width="100dp"
+                                android:layout_height="30dp"
+                                android:layout_below="@+id/optionMuqaddasMaqamat"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/muqaddas_maqamat_t" />
+
+                            <ImageView
+                                android:id="@+id/optionMuqaddasMaqamat"
+                                android:layout_width="100dp"
+                                android:layout_height="100dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/muqaddas_maqamat" />
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:id="@+id/RelativeLayout42"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight=".50"
+                            android:orientation="horizontal" >
+
+                            <ImageView
+                                android:id="@+id/optionZiaeTaiba_t"
+                                android:layout_width="100dp"
+                                android:layout_height="30dp"
+                                android:layout_below="@+id/optionZiaeTaiba"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/zia_e_taiba_t" />
+
+                            <ImageView
+                                android:id="@+id/optionZiaeTaiba"
+                                android:layout_width="100dp"
+                                android:layout_height="100dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/zia_e_taiba" />
+                        </RelativeLayout>
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/LinearLayout5"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_weight="17.06"
+                        android:baselineAligned="false"
+                        android:orientation="horizontal" >
+
+
+
+
+                        <RelativeLayout
+                            android:id="@+id/RelativeLayout62"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight=".50"
+                            android:orientation="horizontal" >
+
+                            <ImageView
+                                android:id="@+id/optionAuradOWazaif_t"
+                                android:layout_width="100dp"
+                                android:layout_height="30dp"
+                                android:layout_below="@+id/optionAuradOWazaif"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/aurado_wazaif_t" />
+
+                            <ImageView
+                                android:id="@+id/optionAuradOWazaif"
+                                android:layout_width="100dp"
+                                android:layout_height="100dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/aurado_wazaif" />
+                        </RelativeLayout>
+
+                        <RelativeLayout
+                            android:id="@+id/RelativeLayout52"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight=".50"
+                            android:orientation="horizontal" >
+
+                            <ImageView
+                                android:id="@+id/optionMasailHajjOUmrah_t"
+                                android:layout_width="100dp"
+                                android:layout_height="30dp"
+                                android:layout_below="@+id/optionMasailHajjOUmrah"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/masail_e_hajj_o_umrah_t" />
+
+                            <ImageView
+                                android:id="@+id/optionMasailHajjOUmrah"
+                                android:layout_width="100dp"
+                                android:layout_height="100dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/masail_e_hajj_o_umrah" />
+                        </RelativeLayout>
+
+
+                    </LinearLayout>
+
+                    <LinearLayout
+                    android:id="@+id/LinearLayout6"
+                    android:layout_width="match_parent"
+                    android:layout_height="0dp"
+                    android:layout_marginTop="5dp"
+                    android:layout_weight="17.06"
+                    android:baselineAligned="false"
+                    android:orientation="horizontal" >
+
+                    <RelativeLayout
+                        android:id="@+id/RelativeLayout61"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight=".50"
+                        android:orientation="horizontal" >
+
+                        <ImageView
+                            android:id="@+id/optionAboutUs_t"
+                            android:layout_width="100dp"
+                            android:layout_height="30dp"
+                            android:layout_below="@+id/optionAboutUs"
+                            android:layout_centerHorizontal="true"
+                            android:contentDescription="@string/app_name"
+                            android:src="@drawable/about_us_t" />
+
+                        <ImageView
+                            android:id="@+id/optionAboutUs"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp"
+                            android:layout_alignParentTop="true"
+                            android:layout_centerHorizontal="true"
+                            android:contentDescription="@string/app_name"
+                            android:src="@drawable/about_us" />
+                    </RelativeLayout>
+                    <RelativeLayout
+                        android:id="@+id/RelativeLayout51"
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight=".50"
+                        android:orientation="horizontal" >
+
+                        <ImageView
+                            android:id="@+id/optionApkeMasail_t"
+                            android:layout_width="100dp"
+                            android:layout_height="30dp"
+                            android:layout_below="@+id/optionApkeMasail"
+                            android:layout_centerHorizontal="true"
+                            android:contentDescription="@string/app_name"
+                            android:src="@drawable/apke_masail_t" />
+
+                        <ImageView
+                            android:id="@+id/optionApkeMasail"
+                            android:layout_width="100dp"
+                            android:layout_height="100dp"
+                            android:layout_alignParentTop="true"
+                            android:layout_centerHorizontal="true"
+                            android:contentDescription="@string/app_name"
+                            android:src="@drawable/apke_masail" />
+                    </RelativeLayout>
+
+                </LinearLayout>
+
+                    <LinearLayout
+                        android:id="@+id/LinearLayout7"
+                        android:layout_width="match_parent"
+                        android:layout_height="0dp"
+                        android:layout_marginTop="5dp"
+                        android:layout_weight="17.06"
+                        android:baselineAligned="false"
+                        android:orientation="horizontal" >
+
+                        <RelativeLayout
+                            android:id="@+id/RelativeLayout71"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight=".50"
+                            android:orientation="horizontal" >
+
+                            <ImageView
+                                android:id="@+id/optionshowbajat_t"
+                                android:layout_width="100dp"
+                                android:layout_height="30dp"
+                                android:layout_below="@+id/optionkutub"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/kutub" />
+
+                            <ImageView
+                                android:id="@+id/optionkutub"
+                                android:layout_width="100dp"
+                                android:layout_height="100dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/kutub_icon" />
+                        </RelativeLayout>
+                        <RelativeLayout
+                            android:id="@+id/RelativeLayout81"
+                            android:layout_width="0dp"
+                            android:layout_height="match_parent"
+                            android:layout_weight=".50"
+                            android:orientation="horizontal" >
+
+                            <ImageView
+                                android:id="@+id/optionshobajat_t"
+                                android:layout_width="100dp"
+                                android:layout_height="30dp"
+                                android:layout_below="@+id/optionshowbajat"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/shubajat" />
+
+                            <ImageView
+                                android:id="@+id/optionshowbajat"
+                                android:layout_width="100dp"
+                                android:layout_height="100dp"
+                                android:layout_alignParentTop="true"
+                                android:layout_centerHorizontal="true"
+                                android:contentDescription="@string/app_name"
+                                android:src="@drawable/shubajat_icon" />
+                        </RelativeLayout>
+
+                    </LinearLayout>
+
+                </LinearLayout>
+            </ScrollView>
+        </RelativeLayout>
+    </LinearLayout>
+
+</RelativeLayout>

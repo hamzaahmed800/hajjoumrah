@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hajj and Umrah</string>
+    <string name="action_settings">More Apps</string>
+    <string name="action_share_this">Share This</string>
+    <string name="action_email">Email</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="category_ahram">احرام</string>
+    <string name="title_activity_sub_category">SubCategoryActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+
+</resources>

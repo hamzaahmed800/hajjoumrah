@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\HAMI\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.8.0\9bada650e1afe9c6174ddc0d113c1fce4dc26fe0\glide-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="C:\Users\HAMI\AndroidStudioProjects\hajjoumrah\app\build\intermediates\pre-dexed\debug\glide-3.8.0_459bf3a7ef3211cd45238c1465dd193ae0c4b9b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HAMI\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\HAMI\AndroidStudioProjects\hajjoumrah\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_7f54a1275ad62517d7b9df1004c56e022ae9094c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HAMI\.android\build-cache\6fbdb2929f816684af3837c409375d70e56fec7b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="C:\Users\HAMI\AndroidStudioProjects\hajjoumrah\app\build\intermediates\pre-dexed\debug\classes_6b78b1675f4caf188f3fe0d551aefdde05debc74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HAMI\AndroidStudioProjects\hajjoumrah\app\libs\socialauth-4.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a867292683d6086af72c7cac181892e118058989">
+        <dex dex="C:\Users\HAMI\AndroidStudioProjects\hajjoumrah\app\build\intermediates\pre-dexed\debug\socialauth-4.4_18c5a818bb8101314058dc1e78734d67f7ad02ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\HAMI\AndroidStudioProjects\hajjoumrah\app\libs\socialauth-android-3.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5275677bbc42e00727fb7056c0a93b42ba0142e5">
+        <dex dex="C:\Users\HAMI\AndroidStudioProjects\hajjoumrah\app\build\intermediates\pre-dexed\debug\socialauth-android-3.2_0c6247a2c02aeb4c4744f3dc4f26caa61869fd97.jar" />
+    </item>
+
+</items>

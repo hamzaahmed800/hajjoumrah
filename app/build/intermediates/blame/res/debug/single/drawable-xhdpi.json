@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_right_default_holo_dark.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_textfield_search_right_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_divider_holo_light.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_list_divider_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_share_pack_holo_light.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ab_share_pack_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_bottom_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ab_bottom_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_go_search_api_holo_light.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ic_go_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\foursquare.png",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\drawable-xhdpi\\foursquare.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_share_holo_dark.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ic_menu_share_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_light.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_clear_search_api_disabled_holo_light.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ic_clear_search_api_disabled_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_solid_light_holo.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ab_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_bottom_transparent_light_holo.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ab_bottom_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ab_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\share.png",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\drawable-xhdpi\\share.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\runkeeper.png",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\drawable-xhdpi\\runkeeper.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_light.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_light.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_default_holo_dark.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_textfield_search_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_commit_search_api_holo_light.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ic_commit_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_cab_background_bottom_holo_light.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_cab_background_bottom_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\linkedin.png",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\drawable-xhdpi\\linkedin.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_tab_selected_pressed_holo.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_tab_selected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_right_default_holo_light.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_textfield_search_right_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_commit_search_api_holo_dark.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ic_commit_search_api_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\google.png",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\drawable-xhdpi\\google.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_search_api_holo_light.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ic_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_selected_holo_dark.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_textfield_search_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_right_selected_holo_dark.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_textfield_search_right_selected_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_voice_search_api_holo_light.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ic_voice_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\share_sel.png",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\drawable-xhdpi\\share_sel.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_longpressed_holo.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_cab_done_holo_dark.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ic_cab_done_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_search.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_cab_background_bottom_holo_dark.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_cab_background_bottom_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_tab_unselected_pressed_holo.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_tab_unselected_pressed_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_stacked_transparent_light_holo.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ab_stacked_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_ab_back_holo_light.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ic_ab_back_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_bottom_solid_dark_holo.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ab_bottom_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_divider_holo_dark.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_list_divider_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_default_holo_dark.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_spinner_ab_default_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_clear_search_api_holo_light.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ic_clear_search_api_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_go.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ic_go.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\googleplus.png",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\drawable-xhdpi\\googleplus.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_light.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_dark.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_spinner_ab_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_focused_holo_light.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_spinner_ab_focused_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_solid_dark_holo.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ab_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\mms.png",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\drawable-xhdpi\\mms.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_clear_normal.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ic_clear_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\facebook.png",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\drawable-xhdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\yammer.png",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\drawable-xhdpi\\yammer.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_stacked_solid_light_holo.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ab_stacked_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_stacked_solid_dark_holo.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ab_stacked_solid_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_bottom_solid_light_holo.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ab_bottom_solid_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_list_focused_holo.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_voice_search.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ic_voice_search.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_focused_holo_dark.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_spinner_ab_focused_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_transparent_light_holo.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ab_transparent_light_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ic_menu_moreoverflow_normal_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_cab_done_holo_light.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ic_cab_done_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_ab_back_holo_dark.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ic_ab_back_holo_dark.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_cab_background_top_holo_light.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_cab_background_top_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\myspace.png",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\drawable-xhdpi\\myspace.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_default_holo_light.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_textfield_search_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_tab_selected_holo.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_tab_selected_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_tab_selected_focused_holo.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_tab_selected_focused_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_share_pack_holo_dark.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ab_share_pack_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\salesforce.png",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\drawable-xhdpi\\salesforce.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\flickr.png",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\drawable-xhdpi\\flickr.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_selected_holo_light.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_textfield_search_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\twitter.png",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\drawable-xhdpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ab_stacked_transparent_dark_holo.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ab_stacked_transparent_dark_holo.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_textfield_search_right_selected_holo_light.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_textfield_search_right_selected_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_menu_share_holo_light.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ic_menu_share_holo_light.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\yahoo.png",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\drawable-xhdpi\\yahoo.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_dark.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_menu_hardkey_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_cab_background_top_holo_dark.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_cab_background_top_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_ic_clear_disabled.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_ic_clear_disabled.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_default_holo_light.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_spinner_ab_default_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\instagram.png",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\drawable-xhdpi\\instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_dark.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_spinner_ab_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_dark.9.png",
+        "source": "C:\\Users\\HAMI\\.android\\build-cache\\6fbdb2929f816684af3837c409375d70e56fec7b\\output\\res\\drawable-xhdpi\\abc_menu_dropdown_panel_holo_dark.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\email.png",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\drawable-xhdpi\\email.png"
+    }
+]

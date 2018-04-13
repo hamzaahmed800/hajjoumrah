@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\menu\\share.xml",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\menu\\share.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\menu\\sub_category.xml",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\menu\\sub_category.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\menu\\search.xml",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\menu\\search.xml"
+    },
+    {
+        "merged": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\build\\intermediates\\res\\merged\\debug\\menu\\splash_screen.xml",
+        "source": "C:\\Users\\HAMI\\AndroidStudioProjects\\hajjoumrah\\app\\src\\main\\res\\menu\\splash_screen.xml"
+    }
+]
